@@ -17,7 +17,7 @@ public class Timer : MonoBehaviour
     private IEnumerator RunTimer(float duration)
     {
         _onSecondPassed?.Invoke(""+(int)duration);
-        yield return new WaitForSeconds(duration);
+        yield return new WaitForSeconds(1f);
         if (duration == 0)
         {
             _onTimerComplete?.Invoke();

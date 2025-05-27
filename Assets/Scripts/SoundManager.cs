@@ -22,7 +22,6 @@ public class SoundManager : MonoBehaviour
         }
         DontDestroyOnLoad(gameObject);
 
-        audioS = GetComponent<AudioSource>();
         audioDictionary = new Dictionary<string,AudioClip>();
         foreach(string key in audioList){
             AudioClip audio = Resources.Load<AudioClip>("Audio/" + audioPrefix + key); 
