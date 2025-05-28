@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   musicName: gangnam_style
   danceName: Gangnam Style
-  notesConfig: {fileID: 0}
+  notesConfig: {fileID: 4900000, guid: 6fa25a075ea688846b5e0c8a4a94d448, type: 3}
   speed: 100

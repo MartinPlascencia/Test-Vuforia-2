@@ -1,0 +1,8 @@
+{
+    "notes": [
+        {"time": 1, "lane":0},
+        {"time": 1.8, "lane":0},
+        {"time": 3, "lane":0},
+        {"time": 3.8, "lane":0}
+    ]
+}
