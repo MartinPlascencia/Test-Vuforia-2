@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: YMCA
   m_EditorClassIdentifier: 
   musicName: ymca
-  danceName: YMCA
+  animationName: YMCA
   notesConfig: {fileID: 4900000, guid: 0daad31900472174dbd09ae501ab505b, type: 3}
-  speed: 100
+  speed: 200

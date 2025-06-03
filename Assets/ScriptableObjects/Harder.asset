@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Harder
   m_EditorClassIdentifier: 
   musicName: harder
-  danceName: Robot Dance
+  animationName: Robot Dance
   notesConfig: {fileID: 4900000, guid: a79f52267511d3c44b055758696e15cb, type: 3}
-  speed: 100
+  speed: 200
