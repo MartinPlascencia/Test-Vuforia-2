@@ -1,8 +1,19 @@
 {
     "notes": [
         {"time": 1, "lane":0},
-        {"time": 1.8, "lane":0},
+        {"time": 2, "lane":1},
         {"time": 3, "lane":0},
-        {"time": 3.8, "lane":0}
+        {"time": 4, "lane":1},
+        {"time": 5, "lane":0},
+        {"time": 6, "lane":1},
+        {"time": 7, "lane":0},
+        {"time": 8, "lane":1},
+        {"time": 9, "lane":0},
+        {"time": 10, "lane":1},
+        {"time": 11, "lane":0},
+        {"time": 12, "lane":1},
+        {"time": 13, "lane":0},
+        {"time": 14, "lane":1},
+        {"time": 15, "lane":0}
     ]
 }
